@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gameler2008/to-do-list-in-react/static/css/main.31f3e347.css",
+    "main.js": "/Gameler2008/to-do-list-in-react/static/js/main.29214606.js",
+    "static/js/453.59bb3b6d.chunk.js": "/Gameler2008/to-do-list-in-react/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/Gameler2008/to-do-list-in-react/index.html",
+    "main.31f3e347.css.map": "/Gameler2008/to-do-list-in-react/static/css/main.31f3e347.css.map",
+    "main.29214606.js.map": "/Gameler2008/to-do-list-in-react/static/js/main.29214606.js.map",
+    "453.59bb3b6d.chunk.js.map": "/Gameler2008/to-do-list-in-react/static/js/453.59bb3b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31f3e347.css",
+    "static/js/main.29214606.js"
+  ]
+}
